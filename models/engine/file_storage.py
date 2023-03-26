@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 #!/usr/bin/python3
 """ Defines FileStorage class. """
 import json
@@ -68,3 +70,7 @@ class FileStorage:
     def close(self):
         """Call the reload method."""
         self.reload()
+<<<<<<< HEAD
+=======
+>>>>>>> 32fa2057d43ed51deb474e2afc8c8dad4ef6c4d3
+>>>>>>> a2370fac9af181c42416211dc9f262d556e4e71d
